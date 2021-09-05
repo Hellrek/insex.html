@@ -35,6 +35,7 @@ title {
   body {
     background-image: url(../src/img/steel.jpg);
     background-attachment: fixed;
+    height: 100%;
     margin-left: 450px;
     margin-right: 450px;
     background-color: #333333;
@@ -55,3 +56,10 @@ title {
   h2 {
       margin-left: 123px;
   }
+  footer {
+      line-break: auto;
+      color: burlywood;
+      background-color: black;
+       height: 100%;
+      
+       }
