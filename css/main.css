@@ -1,27 +1,57 @@
+html {
+    background-image: url(../src/img/backgraund.jpg);
+    background-attachment: fixed;
+
+}
+.logo {
+  
+    display:block;
+margin: 0 auto;
+margin-top: 16px;
+}
+
 title {
     color: rgb(3, 0, 0);
     font-size: 20px;
     text-align: center;
+ 
   }
   link {
+ 
+  }
+
+  .url {
     text-align: center;
+    color: aqua;
+  }
+  .urlNews {
+    text-align: center;
+    color: rgb(229, 245, 9);
   }
   
-  body {
-    background-color: black;
+  .all {
+      margin-left: 25px;
   }
+  body {
+    background-image: url(../src/img/steel.jpg);
+    background-attachment: fixed;
+    margin-left: 450px;
+    margin-right: 450px;
+    background-color: #333333;
+}
   
   p {
+      margin: 50px;
     color: rgb(163, 163, 163);
     background-color: black;
-    font-size: 24px;
+    font-size: 18px;
 
   }
- .text-bold {
-    font-weight: bold;
+
+  h1 {
+    text-align: center;
   }
-  
- .text-dark {
-    color: #333333;
+
+  h2 {
+      margin-left: 123px;
   }
-  
